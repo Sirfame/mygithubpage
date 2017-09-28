@@ -1,8 +1,43 @@
-body {
+/*body {
     background-image: url("../img/background.jpg");
-}
+}*/
 
-.Container {
+/*.Container {
     background: transparent;
     text-align:center
+}*/
+
+#headspace {
+    border: solid black;
+}
+
+#top {
+    border: solid yellow;
+
+}
+
+#topLeft {
+    border: solid blue;
+    display: inline-block;
+}
+
+#topRight {
+    border: solid red;
+    display: inline-block;
+}
+
+#footspace {
+    border: solid black;
+}
+
+#top {
+    display: inline-block;
+}
+
+.ProjectTitle {
+    display: inline-block;
+}
+
+.ProjectDescription {
+    display: inline-block;
 }
