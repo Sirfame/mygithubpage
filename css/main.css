@@ -31,6 +31,11 @@
     vertical-align: top
 }
 
+#bottom {
+    border: solid green;
+    background-color: rgba(0,255,255, 0.5);
+}
+
 #footspace {
     border: solid black;
     text-align: center;
