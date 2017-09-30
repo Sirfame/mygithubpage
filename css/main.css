@@ -52,3 +52,11 @@
 .ProjectDescription {
     display: inline-block;
 }
+
+.card {
+    width: 17%;
+    margin-left: 1%;
+    margin-right: 1%;
+    display: inline-block;
+    border: dotted red;
+}
