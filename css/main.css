@@ -9,25 +9,31 @@
 
 #headspace {
     border: solid black;
+    text-align: center;
 }
 
 #top {
+    width: 100%;
     border: solid yellow;
-
 }
 
 #topLeft {
+    margin-left: 20%;
+    width: 30%;
     border: solid blue;
     display: inline-block;
+    vertical-align: top
 }
 
 #topRight {
     border: solid red;
     display: inline-block;
+    vertical-align: top
 }
 
 #footspace {
     border: solid black;
+    text-align: center;
 }
 
 #top {
