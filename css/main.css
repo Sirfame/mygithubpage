@@ -13,7 +13,12 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+img {
+    display: none;
+}
+
 @media screen and (min-width: 768px) {
+
     #topLeft {
         margin-left: 20%;
         width: 30%;
@@ -30,6 +35,10 @@
 
     .card {
         /*border: solid black;*/
+    }
+
+    img {
+        display: inline;
     }
 }
 
