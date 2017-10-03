@@ -64,7 +64,8 @@ img {
 
 #headspace {
     /*border: solid black;*/
-    text-align: center;
+    /*text-align: center;*/
+    height: 10vh;
 }
 
 #top {
@@ -82,7 +83,8 @@ img {
 
 #footspace {
     /*border: solid black;*/
-    text-align: center;
+    /*text-align: center;*/
+    /*height: 10vh;*/
 }
 
 #top {
