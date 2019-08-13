@@ -41,6 +41,7 @@ img {
 
     #topRight {
         /*border: solid black;*/
+        width: 5%;
         display: inline-block;
         vertical-align: top;
     }
